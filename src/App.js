@@ -14,6 +14,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <h4>Sample</h4>
         <button onClick={this.handleClick}>
           {this.state.isActive ? "Hide" : "Show"}
         </button>
