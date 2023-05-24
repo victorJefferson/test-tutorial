@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=victorJefferson_test-tutorial&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=victorJefferson_test-tutorial)
+
 # [React testing tutorial using Jest](https://reactgo.com/react-testing-tutorial-jest/)
 
 
